@@ -325,7 +325,7 @@ class LineChart extends AbstractChart<LineChartProps, LineChartState> {
             key={Math.random()}
             cx={cx}
             cy={cy}
-            r="14"
+            r="25"
             fill="#fff"
             fillOpacity={0}
             onPress={onPress}
